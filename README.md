@@ -1,4 +1,4 @@
-# Little_Lemon_Analysis_and_Sales_Report
+# Little Lemon Menu sales report project
 
 **Database Clients Project**
 
